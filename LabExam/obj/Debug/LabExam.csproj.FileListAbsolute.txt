@@ -1,0 +1,18 @@
+C:\Users\Web App Develop .Net\source\repos\LabExam\LabExam\obj\Debug\LabExam.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\source\repos\LabExam\LabExam\obj\Debug\LabExam.Form1.resources
+C:\Users\Web App Develop .Net\source\repos\LabExam\LabExam\obj\Debug\LabExam.Properties.Resources.resources
+C:\Users\Web App Develop .Net\source\repos\LabExam\LabExam\obj\Debug\LabExam.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\source\repos\LabExam\LabExam\obj\Debug\LabExam.csproj.CoreCompileInputs.cache
+E:\BITM\LabExam\LabExam\bin\Debug\LabExam.exe.config
+E:\BITM\LabExam\LabExam\bin\Debug\LabExam.exe
+E:\BITM\LabExam\LabExam\bin\Debug\LabExam.pdb
+E:\BITM\LabExam\LabExam\obj\Debug\LabExam.CustomerUI.resources
+E:\BITM\LabExam\LabExam\obj\Debug\LabExam.Properties.Resources.resources
+E:\BITM\LabExam\LabExam\obj\Debug\LabExam.csproj.GenerateResource.cache
+E:\BITM\LabExam\LabExam\obj\Debug\LabExam.csproj.CoreCompileInputs.cache
+E:\BITM\LabExam\LabExam\obj\Debug\LabExam.exe
+E:\BITM\LabExam\LabExam\obj\Debug\LabExam.pdb
+E:\BITM\LabExam\LabExam\obj\Debug\LabExam.csprojAssemblyReference.cache
+E:\BITM\LabExam\LabExam\bin\Debug\System.Data.SqlClient.dll
+E:\BITM\LabExam\LabExam\bin\Debug\System.Data.SqlClient.xml
+E:\BITM\LabExam\LabExam\obj\Debug\LabExam.csproj.CopyComplete
